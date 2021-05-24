@@ -5,7 +5,7 @@ public class Empleado {
 	private String apellidos;
 	private double salario; 
 
-
+//Prueba de conflicto
 public Empleado(String nombre, String apellido, double salario) {
 	this.nombre = nombre;
 	this.apellidos = apellido;
